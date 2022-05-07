@@ -1,1 +1,36 @@
+## Find the sum of all the multiples of 3 or 5 below 1000
+def sum_multiples(n):
+    sum = 0
+    for i in range(n):
+        if i % 3 == 0 or i % 5 == 0:
+            sum += i
+
+    return sum
+ 
+ 
+ ## Even Fibonacci numbers
+def even_fibonacci(n):
+    sum = 0
+    a = 1
+    b = 2
+    while b < n:
+        if b % 2 == 0:
+            sum += b
+        a, b = b, a + b
+    return sum
+
+print(even_fibonacci(4000000))
+
+## Largest prime factor of the number 600851475143
+def largest_prime_factor(n):
+    i = 2
+    while i * i <= n:
+        if n % i:
+            i += 1
+        else:
+            n //= i
+    return n
+
+print(largest_prime_factor(600851475143))
+
 
