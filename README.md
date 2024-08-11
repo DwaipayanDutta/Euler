@@ -1,6 +1,5 @@
 # Project Euler Solutions
 
-<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Project Euler Icon" width="18" height="18">
 
 Welcome to my repository of solutions to Project Euler problems! Project Euler is a collection of challenging mathematical and computational problems designed to enhance problem-solving skills and programming proficiency.
 
