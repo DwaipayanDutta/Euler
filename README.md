@@ -29,26 +29,26 @@ Project Euler is an online platform with a wide array of mathematical and comput
 ## Problem Descriptions
 
 - Problems are organized into directories named after their problem number (e.g., `problem001`, `problem002`, etc.).
-- Each directory includes a `README.md` with the problem statement and relevant details.
+- Each directory includes the problem statement and relevant details with the answer codes.
 
 ## Solution Approaches
 
-- Describe the approach taken for each problem in the corresponding directory.
-- Include details on algorithms, data structures, and mathematical concepts used.
+- Approach taken for each problem in the corresponding directory.
+- Details included on algorithms, data structures, and mathematical concepts used.
 
 ## Code Implementations
 
-- Place your code in the relevant directories, organized by problem number.
-- Ensure code is formatted with appropriate syntax highlighting for readability.
+- Code in the relevant directories, organized by problem number.
+- Formatted with appropriate syntax highlighting for readability.
 
 ## Performance and Optimization
 
-- Address performance considerations and any optimizations applied.
-- Include analyses of time and space complexity where applicable.
+- Address performance considerations and any optimizations applied, seeking help here.
+- Analysis of time and space complexity whereever applicable would be done.
 
 ## References and Resources
 
-- Provide links to external resources, articles, or documentation that were useful in solving the problems.
+- Links to external resources, articles, or documentation that were useful in solving the problems would be updated.
 
 ## Contributions
 
