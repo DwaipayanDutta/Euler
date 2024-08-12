@@ -56,4 +56,4 @@ Project Euler is an online platform with a wide array of mathematical and comput
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/DwaipayanDutta/Euler/blob/main/LICENSE.MD)) file for details.
